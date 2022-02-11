@@ -8,7 +8,7 @@ import java.util.Stack;
 /**
  * @author Ali Almousa
  *
- * This class that mainly check if a string
+ * This class mainly checkes if a string
  * is balanced in the contest of brackets.
  */
 public class BalancedBrackets {
